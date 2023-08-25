@@ -50,6 +50,7 @@ body{
     height: 500px;
     margin: auto;
     background-color: #ffffff59;
+    flex-direction: column;
 }
 .sub{
     width: 267px;
@@ -80,4 +81,7 @@ iframe{
     height: 325px;
     margin-left: 15px;
     margin-right: 15px;
+}
+.form{
+    margin-top:200px;
 }
