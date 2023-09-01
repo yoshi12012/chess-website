@@ -6,6 +6,9 @@
     justify-content: space-between;
     align-items: center;
 }
+.side .middle {
+    margin-left: 10px;
+}
 .side{
     display: flex;
     justify-content: space-evenly;
